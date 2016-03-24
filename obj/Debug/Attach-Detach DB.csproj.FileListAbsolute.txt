@@ -1,0 +1,9 @@
+c:\users\adm.zehner\documents\visual studio 2015\Projects\Attach-Detach DB\Attach-Detach DB\obj\Debug\Attach-Detach DB.csprojResolveAssemblyReference.cache
+c:\users\adm.zehner\documents\visual studio 2015\Projects\Attach-Detach DB\Attach-Detach DB\obj\Debug\Attach-Detach DB.csproj.GenerateResource.Cache
+C:\Users\adm.zehner\Documents\Visual Studio 2015\Projects\Attach-Detach DB\Attach-Detach DB\obj\Debug\Attach_Detach_DB.frm_Main.resources
+C:\Users\adm.zehner\Documents\Visual Studio 2015\Projects\Attach-Detach DB\Attach-Detach DB\bin\Debug\OnDatabase.exe.config
+C:\Users\adm.zehner\Documents\Visual Studio 2015\Projects\Attach-Detach DB\Attach-Detach DB\bin\Debug\OnDatabase.exe
+C:\Users\adm.zehner\Documents\Visual Studio 2015\Projects\Attach-Detach DB\Attach-Detach DB\bin\Debug\OnDatabase.pdb
+C:\Users\adm.zehner\Documents\Visual Studio 2015\Projects\Attach-Detach DB\Attach-Detach DB\obj\Debug\OnDatabase.Properties.Resources.resources
+C:\Users\adm.zehner\Documents\Visual Studio 2015\Projects\Attach-Detach DB\Attach-Detach DB\obj\Debug\OnDatabase.exe
+C:\Users\adm.zehner\Documents\Visual Studio 2015\Projects\Attach-Detach DB\Attach-Detach DB\obj\Debug\OnDatabase.pdb
